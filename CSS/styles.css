@@ -53,13 +53,13 @@ nav ul {
 
 nav ul li a {
     padding: 5px;
-    color: gray;
+    color: blue;
     text-decoration: none;
     display:block;
 }
 
 nav ul li a:hover {
-    background: gray;
+    background: blue;
     border-radius: 10px;
     color: white;
 }
@@ -71,7 +71,7 @@ nav ul li a:hover {
     color: black;
     border-left: 2px solid;
     border-right: 2px solid;    
-    background-image: url(images/ricepaper.jpg); 
+    background-image: url(images/golfball.JPG); 
 }
 
 #main p {
@@ -117,7 +117,7 @@ footer {
     padding: 10px;
     background-color: gray;
     clear: both;
-    color: wheat;
+    color: blue;
     font-weight: bold;
     text-align: center;
 	border-bottom-left-radius: 25px;
@@ -131,7 +131,7 @@ footer {
     border-radius: 25px;
 }/* navigation for footer */
 footer a:link {
-    color: white;
+    color: blue;
     text-decoration: none;
 }
 

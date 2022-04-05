@@ -33,7 +33,7 @@
 	<ul>
 	  <li><a href = "index.html">Home</a></li>
 	  <li><a href = "pricing.html">Pricing</a></li>
-	  <li><a href = "contact us.html">Contact Us</a></li>
+	  <li><a href = "contactus.html">Contact Us</a></li>
 	  <li><a href = "reviews.html">Reviews</a></li>
 	</ul>
 </nav> 
@@ -54,6 +54,10 @@
 
 <p>When I am heading out to play a round, I always make sure to stop by and pick up a box of balls.
 -Jeff Potter
+</p>
+
+<p>I always support local family businesses and this is a business everyone should support!
+-Clint Frazier
 </p>
 
 <h3>Lorem Ipsum</h3>
@@ -84,7 +88,7 @@
 
 	<p>Pitter Patter Putter<br />
 	123 Fake Street &bull; Omaha, Ne 68114<br />
-	<a href = "https://facebook.com" target="_blank">Facebook</a> |<a href = "402-515-5556">Telephone</a> | <a href = "PitterPatterPutter@gmail.com">Email Us</a></p>
+	<a href = "https://facebook.com" target="_blank">Facebook</a> |<a href="tel:+4021234321">Telephone</a> | <a href="mailto:PitterPatterPutter@gmail.com">Email Us</a></p>
 
 </footer>  
 
