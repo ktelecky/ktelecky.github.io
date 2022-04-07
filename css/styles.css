@@ -29,7 +29,8 @@ body {
 
 
 header {
-    width: 910px;	/* reduced by 20px to accommodate shadow */
+	background-color: grey;
+	width: 910px;	/* reduced by 20px to accommodate shadow */
     margin-bottom: 30px;
     margin-top: 10px;
     text-align: center;
