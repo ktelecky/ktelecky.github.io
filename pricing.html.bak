@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<!-- 
+		Final Project CMIS 410
+		Author: Kole Telecky
+		Date: 03/29/2022
+		
+		These web pages are for educational purposes only, all content should be considered fictional. 
+	
+	-->
+
+<meta http-equiv = "Content-Type" content = "text/html; charset=utf-8" />
+<title>Pitter Patter Putter</title>
+   <link href="css/styles.css" rel="stylesheet" />
+
+
+</head>
+
+<body>
+
+<div id = "container"> 
+
+<header> 
+
+<a href="index.html"><img src="images/pitterpatterputter.png" alt="golf clubs and golf ball"/></a>
+
+</header> 
+
+<div id = "wrapper">
+		 
+<nav> 
+	<ul>
+	  <li><a href = "index.html">Home</a></li>
+	  <li><a href = "pricing.html">Pricing</a></li>
+	  <li><a href = "contactus.html">Contact Us</a></li>
+	  <li><a href = "reviews.html">Reviews</a></li>
+	</ul>
+</nav> 
+	 
+<article id = "main"> 
+
+<h3>Services</h3>
+	<p>Putters Woods Irons Balls</p>
+
+<h3>Putters</h3>
+	<p>Scotty Cameron $50-$300, Odyssey White Hot $50-$300
+</p>
+
+<h3>Woods</h3>
+<p>Driver $50-$500, 3 Wood $50-$300, 5 Wood $50-$250, Utility Clubs $50-$175
+</p>
+
+<h3>Irons</h3>
+<p>3 Iron through P Wedge $500
+</p>
+
+<h3>Balls</h3>
+<p>Titleist $25 for 12 Balls, Callaway $20 for 12 Balls
+</p>
+
+<h3>Best Used Clubs Money Can Buy!!</h3>
+	<p>Come on down and visit us, you won't be disappointed!!!</p>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
+</article> <!-- end main -->
+
+<aside> 
+
+<h3>Hours</h3>
+
+	<p>Monday-Friday: 8:00 AM - 5:00PM CST</p>
+	<p>Saturday: 8 AM - 12 PM CST</p>
+	<p>Sunday: Closed</p>
+	
+	
+
+<figure>
+  <img src = "images/scotty.jpg" alt = "scotty putter in front of golf bag"  />
+
+  <figcaption>
+    THE Scotty Cameron!<br />
+      </figcaption> 
+	  
+	   <img src = "images/ghost.jpg" alt = "odyssey ghost in front of golf bag"  />
+
+  <figcaption>
+    Odyssey Ghost White Hot!<br />
+      </figcaption> 
+	  
+	  
+	  
+</figure>
+
+</aside>   
+
+<footer> 
+
+	<p>Pitter Patter Putter<br />
+	123 Fake Street &bull; Omaha, Ne 68114<br />
+	<a href = "https://facebook.com" target="_blank">Facebook</a> |<a href="tel:+4021234321">Telephone</a> | <a href="mailto:PitterPatterPutter@gmail.com">Email Us</a></p>
+
+</footer>  
+
+</div> <!-- end wrapper --> 
+</div> <!-- end container -->
+
+</body>
+</html>

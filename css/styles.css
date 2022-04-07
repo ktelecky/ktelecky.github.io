@@ -71,8 +71,7 @@ nav ul li a:hover {
     color: black;
     border-left: 2px solid;
     border-right: 2px solid;    
-    background-image: url(images/golfball.JPG); 
-}
+   }
 
 #main p {
     text-indent: 1.5em;
@@ -88,6 +87,7 @@ figcaption {
 }
 
 aside {
+	color:blue;
     width: 200px;
     margin: 0 5px 0 5px;
     padding: 10px;
@@ -100,12 +100,14 @@ aside p {
 }
 
 h2 {
+	color:blue;
     font-size: 1.4em;
     text-align: center;
     padding-bottom: 0.5em;
 }
 
 h3 {
+	color:blue;
     text-align: center;
     padding-bottom: 0.5em;
     padding-top: 0.5em;
@@ -115,7 +117,7 @@ footer {
     width: 910px;
     margin: 0;
     padding: 10px;
-    background-color: gray;
+    background-color: grey;
     clear: both;
     color: blue;
     font-weight: bold;
