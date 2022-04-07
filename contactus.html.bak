@@ -84,11 +84,17 @@
 					<label for="dineSpin">How many times do you golf a year?</label>
 					<input name="dineOut" id="dineSpin" type="number" value="1" step="1" min="0" max="20" />
 				</div>
+				
+				</fieldset>
 <div id="buttons">
 			<input type="submit" value="Submit" />
 			<input type="reset" value="Cancel" />
 		</div>
-
+		
+			<fieldset>
+		<label for="commBox">Tell us more how we can make you a better golfer!</label>
+		<textarea name="custExp" id="commBox"></textarea>
+			</fieldset>
 
 <h3>Best Used Clubs Money Can Buy!!</h3>
 	<p>Come on down and visit us, you won't be disappointed!!!</p>
