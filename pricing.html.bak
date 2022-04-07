@@ -81,18 +81,18 @@ src="https://www.youtube.com/embed/x3ZefEI-Rpo">
   <img src = "images/scotty.jpg" alt = "scotty putter in front of golf bag"  />
   </figure>
 
-  <figcaption>
-    THE Scotty Cameron!<br />
-      </figcaption> 
+<figcaption>
+    <p>THE Scotty Cameron!</p>
+	</figcaption>
+      
 	  
 <figure>	  
 	   <img src = "images/ghost.jpg" alt = "odyssey ghost in front of golf bag"  />
 </figure>
-
-  <figcaption>
-    Odyssey Ghost White Hot!<br />
-      </figcaption> 
-	  
+ 
+ <figcaption>
+    <p>Odyssey Ghost White Hot!</p>
+   </figcaption>
 	  
 	  
 
