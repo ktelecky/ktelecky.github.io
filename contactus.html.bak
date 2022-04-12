@@ -41,7 +41,7 @@
 <article id = "main"> 
 
 <h2>Contact Us</h2>
-	<form id="survey" action="http://www.example.com/redball/survey" method="post">
+	<form id="survey" action="https://ktelecky.github.io/index.html" method="post">
 		<fieldset id="custInfo">
 			<legend>Customer Information</legend>
 			
