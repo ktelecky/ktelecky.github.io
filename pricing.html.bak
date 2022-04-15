@@ -23,7 +23,7 @@
 
 <header> 
 
-<a href="index.html"><img src="images/pitterpatterputter.png" alt="golf clubs and golf ball logo"/></a>
+<a href="index.html"><img src="images/capture.png" alt="golf clubs and golf ball logo"/></a>
 
 </header> 
 
@@ -39,6 +39,8 @@
 </nav> 
 	 
 <article id = "main"> 
+
+<table>
 
 <h3>Services</h3>
 	<p>Putters Woods Irons Balls</p>
@@ -58,6 +60,8 @@
 <h3>Balls</h3>
 <p>Titleist $25 for 12 Balls, Callaway $20 for 12 Balls
 </p>
+
+</table>
 
 <h3>Best Used Clubs Money Can Buy!!</h3>
 	<p>Come on down and visit us, you won't be disappointed!!!</p>
